@@ -1,0 +1,41 @@
+{
+    "list": [{
+            "hotel": "5 star hotel",
+            "location": "11 kda khulna",
+            "star": 5
+        },
+        {
+            "hotel": "5 star hotel",
+            "location": "11 kda khulna",
+            "star": 5
+        },
+        {
+            "hotel": "5 star hotel",
+            "location": "11 kda khulna",
+            "star": 5
+        },
+        {
+            "hotel": "5 star hotel",
+            "location": "11 kda khulna",
+            "star": 5
+        }, {
+            "hotel": "5 star hotel",
+            "location": "11 kda khulna",
+            "star": 5
+        }, {
+            "hotel": "5 star hotel",
+            "location": "11 kda khulna",
+            "star": 5
+        }, {
+            "hotel": "5 star hotel",
+            "location": "11 kda khulna",
+            "star": 5
+        }, {
+            "hotel": "5 star hotel",
+            "location": "11 kda khulna",
+            "star": 5
+        }
+    ]
+
+
+}
