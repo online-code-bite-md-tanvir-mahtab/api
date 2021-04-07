@@ -1,0 +1,23 @@
+{
+    "name": "api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node hello.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/online-code-bite-md-tanvir-mahtab/api.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/online-code-bite-md-tanvir-mahtab/api/issues"
+    },
+    "homepage": "https://github.com/online-code-bite-md-tanvir-mahtab/api#readme",
+    "dependencies": {
+        "json-server": "^0.16.3"
+    }
+}
